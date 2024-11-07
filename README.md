@@ -15,14 +15,14 @@ The Expense Tracker App is a mobile application built with React Native that all
 ## Installation and Setup
 
 1. Clone the repository:
-git clone https://github.com/your-username/expense-tracker-app.git
-Copy2. Navigate to the project directory:
+git clone https://github.com/roseateros/registro-diario-taxista.git
+2. Navigate to the project directory:
 cd expense-tracker-app
-Copy3. Install the dependencies:
+3. Install the dependencies:
 npm install
-Copy4. Start the development server:
+4. Start the development server:
 expo start
-Copy5. Follow the instructions provided by Expo to run the app on your local device or emulator.
+5. Follow the instructions provided by Expo to run the app on your local device or emulator.
 
 ## Dependencies
 
