@@ -1,4 +1,4 @@
-# Expense Tracker App
+# Registro Diario Taxista
 
 The Expense Tracker App is a mobile application built with React Native that allows users to manage their personal finances by tracking their income and expenses.
 
